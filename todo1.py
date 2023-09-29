@@ -28,7 +28,7 @@ if __name__ == "__main__":
         if choice == "1":
 
             
-            item = input("Enter the task: ")
+            item = input("Enter the your mom: ")
             add_todo(item)
         elif choice == "2":
             view_todos()
